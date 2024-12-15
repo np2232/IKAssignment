@@ -15,7 +15,7 @@ adjectives are used at a much higher rate in the technical texts.
 
 ## Research Question and Hypothesis:
 Research Question: at what rate are personality adjectives used in history books and fiction, and what is the difference?
-Hypothesis: personality adjectives are used at a higher rate in history books
+Hypothesis: personality adjectives are used at a higher rate in fiction books
 
 ## Methods
 This study will focus on the works of two writers whose works are in the public domain and available on Project Gutenberg, novelist 
